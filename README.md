@@ -1,8 +1,4 @@
----
-order: 1
-title: 使用Docker部署Spring Boot
-type: 进阶
----
+## 使用Docker部署Spring Boot
 
 编译部署docker镜像，可以直接通过docker命令工具直接编译，也可以通过第三方插件进行编译
 
